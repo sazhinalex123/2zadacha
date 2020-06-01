@@ -84,7 +84,7 @@ int autotest (void){
     int i;
     char arr[512];
     i=search("test.txt", arr);
-    if (i==1){
+    if (i==12){
         return 1;
     }
     else{
